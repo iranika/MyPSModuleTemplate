@@ -1,0 +1,2 @@
+# MyPSModuleTemplate
+WIP: Original PowerShellModuleTemplate
